@@ -10,7 +10,7 @@ I'm always open to collaboration, feedback, or a good tech chat — thanks for s
 
 ## 🚀 About Me
 
-- 🔭 Currently building **TechCheck**, a platform for Street Fighter players to connect and practice matchups.
+- 🔭 Currently building [**TechCheck**](https://github.com/Timothyb92/TechCheck), a platform for Street Fighter players to connect and practice matchups.
 - 🌱 Supporting local small businesses as a mentor with [**SCORE**](https://www.score.org/).
 
 ## 🛠️ Tech Stack
